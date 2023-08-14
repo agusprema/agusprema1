@@ -1,14 +1,22 @@
+// E adalah X atau longitude
+// Y adalah S atau latitude
 [
   {
-    "id": "beng",
-    "name": "Bengkel A",
-    "coordinates": { "x": 10, "y": 20 },
-    "address": "Jalan A No. 123"
+    "id": "paksebali",
+    "name": "Paksebali",
+    "coordinates": { "x": 1152447, "y": 8561 },
+    "address": " "
   },
   {
-    "id": "kantor",
-    "name": "Kantor B",
-    "coordinates": { "x": 30, "y": 40 },
-    "address": "Jalan B No. 456"
+    "id": "kusa",
+    "name": "Kusa Klungkung",
+    "coordinates": { "x": 1152459, "y": 83213 },
+    "address": " "
+  },
+  {
+    "id": "samplngantengah",
+    "name": "Samplangan Tengah Dawan",
+    "coordinates": { "x": 1152446, "y": 83223 },
+    "address": "12 Jalan Arjuna Kecamatan Dawan"
   }
 ]
