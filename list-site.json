@@ -22,5 +22,29 @@
     "name": "Dawan Gunaksa",
     "coordinates": { "x": 115.2517, "y": 8.3241 },
     "address": "Jalan Raya Sampalan Kecamatan Dawan"
-  }
+  },
+  {
+    "id": "kusa2",
+    "name": "Kusa2 Klungkung",
+    "coordinates": { "x": 115.2459, "y": 8.3213 },
+    "address": " "
+  },
+  {
+    "id": "kusa3",
+    "name": "Kusa3 Klungkung",
+    "coordinates": { "x": 115.2459, "y": 8.3213 },
+    "address": " "
+  },
+  {
+    "id": "kusa4",
+    "name": "Kusa2 Klungkung",
+    "coordinates": { "x": 115.2459, "y": 8.3213 },
+    "address": " "
+  },
+  {
+    "id": "kusa5",
+    "name": "Kusa3 Klungkung",
+    "coordinates": { "x": 115.2459, "y": 8.3213 },
+    "address": " "
+  },
 ]
