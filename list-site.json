@@ -1,7 +1,7 @@
-// E adalah X atau longitude
-// Y adalah S atau latitude
 [
   {
+    "//first_comment": "E adalah X atau longitude",
+    "//second_comment": "Y adalah S atau latitude",
     "id": "paksebali",
     "name": "Paksebali",
     "coordinates": { "x": 1152447, "y": 8561 },
