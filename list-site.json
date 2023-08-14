@@ -16,5 +16,11 @@
     "name": "Samplangan Tengah Dawan",
     "coordinates": { "x": 1152446, "y": 83223 },
     "address": "12 Jalan Arjuna Kecamatan Dawan"
+  },
+  {
+    "id": "dawangunaksa",
+    "name": "Dawan Gunaksa",
+    "coordinates": { "x": 1152517, "y": 83241 },
+    "address": "Jalan Raya Sampalan Kecamatan Dawan"
   }
 ]
