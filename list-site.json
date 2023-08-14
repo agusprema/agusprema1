@@ -1,0 +1,14 @@
+[
+  {
+    "id": "beng",
+    "name": "Bengkel A",
+    "coordinates": { "x": 10, "y": 20 },
+    "address": "Jalan A No. 123"
+  },
+  {
+    "id": "kantor",
+    "name": "Kantor B",
+    "coordinates": { "x": 30, "y": 40 },
+    "address": "Jalan B No. 456"
+  }
+]
