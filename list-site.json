@@ -30,6 +30,12 @@
     "address": " "
   },
   {
+    "id": "pempatanrendang",
+    "name": "Pempatan Rendang",
+    "coordinates": { "x": 115.41572061, "y": 8.35250854 },
+    "address": " "
+  },
+  {
     "id": "kusa3",
     "name": "Kusa3 Klungkung",
     "coordinates": { "x": 115.2459, "y": 8.3213 },
