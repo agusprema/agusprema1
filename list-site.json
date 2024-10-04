@@ -6,6 +6,12 @@
     "address": " "
   },
   {
+    "id": "kedisan",
+    "name": "kedisan tegalalang",
+    "coordinates": { "x": +115.2733, "y": -8.4238 },
+    "address": "Kecamatan Payangan"
+  },
+  {
     "id": "kusa",
     "name": "Kusa Klungkung",
     "coordinates": { "x": 115.2459, "y": 8.3213 },
